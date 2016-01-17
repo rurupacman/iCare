@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iCare</string>
+    <string name="emptyString" />
+    <string name="title_activity_view_profile">ViewProfile</string>
+</resources>
